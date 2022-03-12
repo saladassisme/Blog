@@ -3,10 +3,8 @@
     {{- $archivesPage := index $query 0 -}}
     <section class="widget categories">
         <div class="widget-icon">
-            {{ partial "helper/icon" "hash" }}
+            {{ partial "helper/icon" "hash" }}<h2 class="widget-title section-title">分类</h2>
 		</div> 
-		<h2 class="widget-title section-title">分类</h2>
-		
     <div class="widget-categories--list">
 <div class="widget">
     <h3 class="widget-title"> {{ T "widget_categories" }}</h3>

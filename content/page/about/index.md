@@ -1,15 +1,9 @@
 ---
 title: 关于我
-description: 小小人类是谁？她的分身？她的诞生？她的未来？
-date: '2022-03-12'
-aliases:
-  - about-us
-  - about-hugo
-  - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+license: false
+layout: "about"
 menu:
-    main: 
+    main:
         weight: -90
         params:
             icon: user

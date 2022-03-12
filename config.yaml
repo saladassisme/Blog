@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://hugo-stack-theme-mod-phi.vercel.app/
 languageCode: zh-CN
 theme: stack
 paginate: 5

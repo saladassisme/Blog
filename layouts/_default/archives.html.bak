@@ -1,6 +1,5 @@
 {{ define "body-class" }}template-archives{{ end }}
 {{ define "main" }}
-
     {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
     {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
     {{ $filtered := ($pages | intersect $notHidden) }}
@@ -21,5 +20,4 @@
     </div>
     {{ end }}
 
-    {{ partialCached "footer/footer" . }}
 {{ end }}

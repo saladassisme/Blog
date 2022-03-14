@@ -6,10 +6,11 @@
       {
         "id": "2c9a768f03c3928e",
         "type": "leaf",
+        "dimension": 67.17391304347827,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "个人向博客试水记录.md",
+            "file": "咖啡种草小记.md",
             "mode": "source",
             "source": false
           }
@@ -19,11 +20,12 @@
       {
         "id": "2c15b43638abe057",
         "type": "leaf",
+        "dimension": 32.826086956521735,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "个人向博客试水记录.md",
-            "mode": "preview",
+            "file": "咖啡种草小记.md",
+            "mode": "source",
             "source": false
           }
         },
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人向博客试水记录.md",
+                "file": "咖啡种草小记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +105,8 @@
   },
   "active": "2c9a768f03c3928e",
   "lastOpenFiles": [
-    "个人向博客试水记录.md",
-    "未命名.md",
-    "个人向法压壶咖啡入坑记录.md"
+    "咖啡种草小记.md",
+    "个人向法压壶咖啡入坑记录.md",
+    "个人向博客试水记录.md"
   ]
 }

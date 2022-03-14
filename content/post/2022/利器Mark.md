@@ -39,7 +39,7 @@ categories:
 	* [上交计算机](https://github.com/kxxwz/SJTU-Courses)
 	* [中科大](https://ustc-resource.github.io/USTC-Course/)
 * [ProgramBasedLearning](https://github.com/practical-tutorials/project-based-learning)
-### 其他【备忘】
+## 其他【备忘】
 * everything：检索
 * github desktop/tortoisegit：git配套
 * fences/元气桌面：桌面整理，后者功能捆绑太多，但还挺好用

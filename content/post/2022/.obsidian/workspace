@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "0b3a2fb8923b7388",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c9a768f03c3928e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "个人向博客试水记录.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "3d8fb3011c356d1e"
+      },
+      {
+        "id": "2c15b43638abe057",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "个人向博客试水记录.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "3d8fb3011c356d1e"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fbb0601c47acb1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "68922fe6c6da87d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8d35b9d881b80d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9770adc1093a142b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e82d3653563b026e",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ce70f63662d5fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0889cda8dd2eed26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "个人向博客试水记录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2c9a768f03c3928e",
+  "lastOpenFiles": [
+    "个人向博客试水记录.md",
+    "未命名.md",
+    "个人向法压壶咖啡入坑记录.md"
+  ]
+}

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "咖啡种草小记.md",
+            "file": "利器Mark.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "咖啡种草小记.md",
+            "file": "利器Mark.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "咖啡种草小记.md",
+                "file": "利器Mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "2c9a768f03c3928e",
   "lastOpenFiles": [
+    "利器Mark.md",
+    "yewan.info.md",
     "咖啡种草小记.md",
     "个人向法压壶咖啡入坑记录.md",
     "个人向博客试水记录.md"

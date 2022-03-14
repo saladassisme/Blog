@@ -8,12 +8,8 @@
         "type": "leaf",
         "dimension": 67.17391304347827,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "blog/个人向博客试水记录.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "3d8fb3011c356d1e"
       },
@@ -22,12 +18,8 @@
         "type": "leaf",
         "dimension": 32.826086956521735,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "blog/个人向博客试水记录.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "3d8fb3011c356d1e"
       }
@@ -85,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/个人向博客试水记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

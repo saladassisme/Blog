@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 67.17391304347827,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "blog/index.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "3d8fb3011c356d1e"
       },
@@ -18,8 +22,12 @@
         "type": "leaf",
         "dimension": 32.826086956521735,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "blog/index.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "3d8fb3011c356d1e"
       }
@@ -77,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blog/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +105,15 @@
   },
   "active": "2c9a768f03c3928e",
   "lastOpenFiles": [
+    "blog/index.md",
+    "blog/wordpress.jpg",
+    "如何用Hexo+Github搭建个人博客.md",
+    "利器Toolbox.md",
     "blog/个人向博客试水记录.md",
     "个人向博客试水记录.md",
     "个人向法压壶咖啡入坑记录.md",
-    "如何用Hexo+Github搭建个人博客.md",
     "Pasted image 20220314142907.png",
     "未命名.md",
-    "利器Toolbox.md",
-    "Pasted image 20220314141638.png",
-    "1647238594.jpg",
-    "咖啡种草小记.md"
+    "Pasted image 20220314141638.png"
   ]
 }

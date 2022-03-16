@@ -1,49 +1,29 @@
 {
   "main": {
-    "id": "0b3a2fb8923b7388",
+    "id": "4a8e07521d9117fb",
     "type": "split",
     "children": [
       {
-        "id": "2c9a768f03c3928e",
+        "id": "814298f846678181",
         "type": "leaf",
-        "dimension": 62.60869565217392,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022、来いよ！.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "3d8fb3011c356d1e"
-      },
-      {
-        "id": "2c15b43638abe057",
-        "type": "leaf",
-        "dimension": 37.391304347826086,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022、来いよ！.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "3d8fb3011c356d1e"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0fbb0601c47acb1e",
+    "id": "919526773f20d3c8",
     "type": "split",
     "children": [
       {
-        "id": "68922fe6c6da87d0",
+        "id": "ca420b79c95e2d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d35b9d881b80d1",
+            "id": "4a53baab7c383a8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +31,7 @@
             }
           },
           {
-            "id": "9770adc1093a142b",
+            "id": "bf88b90c242b7948",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "e82d3653563b026e",
+    "id": "4987b511a36505ea",
     "type": "split",
     "children": [
       {
-        "id": "43ce70f63662d5fd",
+        "id": "2c95250748324eca",
         "type": "tabs",
         "children": [
           {
-            "id": "0889cda8dd2eed26",
+            "id": "aff23998f2e74e9a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022、来いよ！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +82,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c9a768f03c3928e",
+  "active": "814298f846678181",
   "lastOpenFiles": [
-    "2022、来いよ！.md",
-    "唱歌.md",
-    "个人向法压壶咖啡入坑记录.md",
-    "喝过的咖啡.md",
-    "咖啡种草小记.md",
-    "利器Toolbox.md",
-    "旅游.md",
-    "如何用Hexo+Github搭建个人博客.md",
-    "something.md",
-    "blog/index.md"
+    "index.md"
   ]
 }

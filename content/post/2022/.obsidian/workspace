@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
+            "file": "美食.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
+                "file": "美食.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "唱歌【纯K民间代言人的前世今生（持续施工中）.md"
+                "file": "美食.md"
               }
             }
           },
@@ -107,15 +107,15 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
+    "美食.md",
+    "利器Toolbox.md",
+    "咖啡种草小记.md",
+    "个人向法压壶咖啡入坑记录.md",
+    "2022、来いよ！.md",
     "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
     "喝过的咖啡.md",
     "如何用Hexo+Github搭建个人博客.md",
     "blog/index.md",
-    "利器Toolbox.md",
-    "美食.md",
-    "日常/4.10-4.16.md",
-    "100天计划.md",
-    "2022、来いよ！.md",
-    "存档一些日常看的网站（持续更新）.md"
+    "日常/4.10-4.16.md"
   ]
 }

@@ -7,9 +7,11 @@
         "id": "67fa823a1f38c81f",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "4-2/5个需求.png"
+            "file": "4-2/index.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-2/5个需求.png",
+                "file": "4-2/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-2/5个需求.png"
+                "file": "4-2/index.md"
               }
             }
           },
@@ -105,9 +107,9 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
+    "4-2/index.md",
     "4-2/5个需求.png",
     "blog/hexo.png",
-    "4-2/index.md",
     "blog/index.md",
     "4-2/陪聊.png",
     "如何用Hexo+Github搭建个人博客.md",

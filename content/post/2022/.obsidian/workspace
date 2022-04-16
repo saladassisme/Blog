@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog/4.10到4.16.md",
+            "file": "4.10到4.16.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/4.10到4.16.md",
+                "file": "4.10到4.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/4.10到4.16.md"
+                "file": "4.10到4.16.md"
               }
             }
           },
@@ -107,15 +107,15 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
-    "blog/4.10到4.16.md",
+    "4.10到4.16.md",
+    "4-2/5个需求.png",
     "如何用Hexo+Github搭建个人博客.md",
-    "blog/5个需求.png",
-    "blog/陪聊.png",
+    "未命名.md",
+    "4-2/陪聊.png",
     "blog/index.md",
     "2022、来いよ！.md",
-    "blog/罗翔.png",
+    "4-2/罗翔.png",
     "存档一些日常看的网站（持续更新）.md",
-    "利器Toolbox.md",
-    "美食.md"
+    "利器Toolbox.md"
   ]
 }

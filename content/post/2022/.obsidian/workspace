@@ -7,11 +7,9 @@
         "id": "67fa823a1f38c81f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "4-2/4.10到4.16.md",
-            "mode": "source",
-            "source": false
+            "file": "4-2/5个需求.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-2/4.10到4.16.md",
+                "file": "4-2/5个需求.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-2/4.10到4.16.md"
+                "file": "4-2/5个需求.png"
               }
             }
           },
@@ -107,15 +105,15 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
-    "4-2/4.10到4.16.md",
     "4-2/5个需求.png",
+    "blog/hexo.png",
+    "4-2/index.md",
+    "blog/index.md",
+    "4-2/陪聊.png",
     "如何用Hexo+Github搭建个人博客.md",
     "未命名.md",
-    "4-2/陪聊.png",
-    "blog/index.md",
     "2022、来いよ！.md",
     "4-2/罗翔.png",
-    "存档一些日常看的网站（持续更新）.md",
-    "利器Toolbox.md"
+    "存档一些日常看的网站（持续更新）.md"
   ]
 }

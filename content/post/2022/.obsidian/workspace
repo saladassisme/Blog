@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日常/4.10-4.16.md",
+            "file": "week4-1/4.10-4.16.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日常/4.10-4.16.md",
+                "file": "week4-1/4.10-4.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日常/4.10-4.16.md"
+                "file": "week4-1/4.10-4.16.md"
               }
             }
           },
@@ -107,11 +107,11 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
+    "week4-1/4.10-4.16.md",
     "日常/4.10-4.16.md",
-    "日常/4.10-4.16 1.md",
-    "日常/5个需求.png",
-    "日常/罗翔.png",
-    "日常/陪聊.png",
+    "week4-1/5个需求.png",
+    "week4-1/罗翔.png",
+    "week4-1/陪聊.png",
     "blog/index.md",
     "blog/hexo.png",
     "blog/wordpress.jpg",

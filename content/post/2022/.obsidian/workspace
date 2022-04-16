@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.10到4.16.md",
+            "file": "blog/4.10到4.16.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.10到4.16.md",
+                "file": "blog/4.10到4.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.10到4.16.md"
+                "file": "blog/4.10到4.16.md"
               }
             }
           },
@@ -107,7 +107,7 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
-    "4.10到4.16.md",
+    "blog/4.10到4.16.md",
     "如何用Hexo+Github搭建个人博客.md",
     "blog/5个需求.png",
     "blog/陪聊.png",

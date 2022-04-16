@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "week4-1/4.10-4.16.md",
+            "file": "blog/4.10-4.16.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week4-1/4.10-4.16.md",
+                "file": "blog/4.10-4.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week4-1/4.10-4.16.md"
+                "file": "blog/4.10-4.16.md"
               }
             }
           },
@@ -107,15 +107,15 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
-    "week4-1/4.10-4.16.md",
-    "日常/4.10-4.16.md",
-    "week4-1/5个需求.png",
-    "week4-1/罗翔.png",
-    "week4-1/陪聊.png",
+    "blog/4.10-4.16.md",
     "blog/index.md",
+    "存档一些日常看的网站（持续更新）.md",
+    "blog/陪聊.png",
+    "日常/4.10-4.16.md",
+    "blog/5个需求.png",
+    "blog/罗翔.png",
     "blog/hexo.png",
     "blog/wordpress.jpg",
-    "Pasted.md",
-    "个人知识体系搭建.md"
+    "Pasted.md"
   ]
 }

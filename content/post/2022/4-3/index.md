@@ -27,7 +27,7 @@ categories:
 
 ## 4.18
 ### feeds
-1. [如何做好 presentation](https://womenoverseas.com/t/topic/18232)]
+1. [如何做好 presentation](https://womenoverseas.com/t/topic/18232)
 2. [How Will You Measure Your Life?](https://hbr.org/2010/07/how-will-you-measure-your-life)
 3. [润学The Run Philosophy Organization](https://github.com/The-Run-Philosophy-Organization)
 ### toots

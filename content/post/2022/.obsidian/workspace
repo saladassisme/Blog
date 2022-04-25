@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "移民run指北.md",
+            "file": "immi/index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "移民run指北.md",
+                "file": "immi/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "移民run指北.md"
+                "file": "immi/index.md"
               }
             }
           },
@@ -107,7 +107,8 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
-    "移民run指北.md",
+    "immi/index.md",
+    "immi/pvkgpfh74du81.jpg",
     "如何用Hexo+Github搭建个人博客.md",
     "2022、来いよ！.md",
     "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
@@ -115,7 +116,6 @@
     "个人向法压壶咖啡入坑记录.md",
     "关于管理的迷思.md",
     "利器Toolbox.md",
-    "美食.md",
-    "4月24日-4月30日周记.md"
+    "美食.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 title: 移民run指北(持续更新)
-date: 2022-04-25 18:36:00
+date: 2022-04-25
 tags:
   - 移民
   - 润学
@@ -8,6 +8,7 @@ license: false
 categories:
     - 信息
 ---
+
 ## 信息源
 1. [reddit-iwanttorun](https://www.reddit.com/r/iwanttorun/)
 2. [reddit-expats](https://www.reddit.com/r/expats/)

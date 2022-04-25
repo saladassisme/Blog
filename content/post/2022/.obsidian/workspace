@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4-3/index.md",
+            "file": "blog/移民run指北.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-3/index.md",
+                "file": "blog/移民run指北.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-3/index.md"
+                "file": "blog/移民run指北.md"
               }
             }
           },
@@ -107,15 +107,15 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
-    "4-3/index.md",
-    "关于管理的迷思.md",
-    "竞品分析pre文字稿.md",
-    "4-2/index.md",
+    "blog/移民run指北.md",
+    "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
+    "4月17日-4月23日周记.md",
     "blog/index.md",
-    "如何用Hexo+Github搭建个人博客.md",
-    "4-2/5个需求.png",
-    "blog/hexo.png",
-    "4-2/陪聊.png",
-    "2022、来いよ！.md"
+    "template.md",
+    "Pasted image 20220424235258.png.md",
+    "pvkgpfh74du81.jpg",
+    "咖啡种草小记.md",
+    "利器Toolbox.md",
+    "美食.md"
   ]
 }

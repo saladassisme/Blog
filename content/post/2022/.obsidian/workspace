@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4月24日-4月30日周记.md",
+            "file": "5月1日-5月7日周记.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4月24日-4月30日周记.md",
+                "file": "5月1日-5月7日周记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4月24日-4月30日周记.md"
+                "file": "5月1日-5月7日周记.md"
               }
             }
           },
@@ -107,6 +107,7 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
+    "5月1日-5月7日周记.md",
     "4月24日-4月30日周记.md",
     "immi/index.md",
     "immi/pvkgpfh74du81.jpg",
@@ -115,7 +116,6 @@
     "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
     "存档一些日常看的网站（持续更新）.md",
     "个人向法压壶咖啡入坑记录.md",
-    "关于管理的迷思.md",
-    "利器Toolbox.md"
+    "关于管理的迷思.md"
   ]
 }

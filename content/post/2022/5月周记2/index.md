@@ -14,7 +14,7 @@ categories:
 
 2. [关于移民的仓库](https://github.com/acacess/awesome-immigration)更新了。
 
-3. what the fuck???→sexn[https://www.sexn.finance/]
+3. what the fuck???→[sexn](https://www.sexn.finance/)
 
 4. 一个非常详尽的[机器学习求职资源资源列表](https://hollow-wood-560.notion.site/Coding-questions-FAANG-prep-9cdf280e5f30425fa188cbbaa6d1998c)，主理人拿到了 Google / Meta / Snap / Yelp 等大厂的 offer，最终以机器学习工程师的身份加入 Google 苏黎世办公室。
 

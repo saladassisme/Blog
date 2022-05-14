@@ -11,7 +11,7 @@
           "state": {
             "file": "5月1日-5月7日周记.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -108,14 +108,14 @@
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
     "5月1日-5月7日周记.md",
-    "4月24日-4月30日周记.md",
-    "immi/index.md",
-    "immi/pvkgpfh74du81.jpg",
-    "如何用Hexo+Github搭建个人博客.md",
     "2022、来いよ！.md",
-    "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
-    "存档一些日常看的网站（持续更新）.md",
-    "个人向法压壶咖啡入坑记录.md",
-    "关于管理的迷思.md"
+    "immi/index.md",
+    "5月周记2/index.md",
+    "4月周记1/index.md",
+    "5月周记2/稿定设计导出-20220514-180652.jpg",
+    "Pasted image 20220420130811.png",
+    "4月24日-4月30日周记.md",
+    "关于管理的迷思.md",
+    "喝过的咖啡.md"
   ]
 }

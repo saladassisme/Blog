@@ -34,4 +34,5 @@ menu:
 * 日常die inside偶尔psychopath
 ### 请注意
 > 如果你在现实生活中认识我，请不要把这个站点告诉任何人
-![](https://readme-typing-svg.herokuapp.com/?lines=I+love+to+make+friends.;so+if+you+want+to+say+hi,;I'll+be+happy+to+meet+you+more!😊)](https://git.io/typing-svg)
+
+[![](https://readme-typing-svg.herokuapp.com/?lines=I+love+to+make+friends.;so+if+you+want+to+say+hi,;I'll+be+happy+to+meet+you+more!😊)](https://git.io/typing-svg)

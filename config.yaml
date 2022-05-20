@@ -214,10 +214,16 @@ menu:
               icon: brand-wechat
 
         - identifier: tg
-          name: tg
+          name: Telegram
           url: https://t.me/zarmstrong
           params:
               icon: brand-tg
+
+        - identifier: ins
+          name: Instagram
+          url: https://www.instagram.com/invites/contact/?i=orwnlyfujvd3&utm_content=5gl1atb
+          params:
+              icon: brand-ins
 
 related:
     includeNewer: true

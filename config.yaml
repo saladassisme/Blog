@@ -207,6 +207,17 @@ menu:
           params:
               icon: brand-douban
               
+        - identifier: wechat
+          name: WeChat
+          url: https://d2nvkphgrw.feishu.cn/docs/doccnDaSfuwGGFxz3gnMtnE43fe?from=from_copylink
+          params:
+              icon: brand-wechat
+
+        - identifier: tg
+          name: tg
+          url: https://t.me/zarmstrong
+          params:
+              icon: brand-tg
 
 related:
     includeNewer: true

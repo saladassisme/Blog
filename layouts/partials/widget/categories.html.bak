@@ -3,7 +3,7 @@
     {{- $archivesPage := index $query 0 -}}
     <section class="widget categories">
         <div class="widget-icon">
-            {{ partial "helper/icon" "hash" }}<h2 class="widget-title section-title">分类</h2>
+            {{ partial "helper/icon" "book" }}<h2 class="widget-title section-title">分类</h2>
 		</div> 
     <div class="widget-categories--list">
 <div class="widget">

@@ -32,10 +32,6 @@ menu:
 * 想养一只伯恩山一只德牧一只玳瑁
 * infj黑圣母属性值拉满
 * 日常die inside偶尔psychopath
-### 联系我
- [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xuting0510@gmail.com)
-
 ### 请注意
 > 如果你在现实生活中认识我，请不要把这个站点告诉任何人
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+love+to+make+friends.;so+if+you+want+to+say+hi,;I'll+be+happy+to+meet+you+more!😊)](https://git.io/typing-svg)
+![](https://readme-typing-svg.herokuapp.com/?lines=I+love+to+make+friends.;so+if+you+want+to+say+hi,;I'll+be+happy+to+meet+you+more!😊)](https://git.io/typing-svg)

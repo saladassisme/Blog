@@ -4,8 +4,8 @@
     <section class="widget archives">
         <div class="widget-icon">
             {{ partial "helper/icon" "archives" }}
-            <h2 class="widget-title section-title">{{ T "widget.archives.title" }}</h2>
         </div>
+        <span class="widget-title section-title">{{ T "widget.archives.title" }}</span>
         
 
         {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5月周记2/index.md",
+            "file": "5月15日-5月21日周记.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5月周记2/index.md",
+                "file": "5月15日-5月21日周记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5月周记2/index.md"
+                "file": "5月15日-5月21日周记.md"
               }
             }
           },
@@ -107,6 +107,7 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
+    "5月15日-5月21日周记.md",
     "5月周记2/index.md",
     "5月周记2/稿定设计导出-20220514-180652.jpg",
     "5月1日-5月7日周记.md",
@@ -115,7 +116,6 @@
     "4月周记1/index.md",
     "Pasted image 20220420130811.png",
     "4月24日-4月30日周记.md",
-    "关于管理的迷思.md",
-    "喝过的咖啡.md"
+    "关于管理的迷思.md"
   ]
 }

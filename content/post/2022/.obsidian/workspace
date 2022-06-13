@@ -7,8 +7,12 @@
         "id": "67fa823a1f38c81f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "6月5日-6月11日周记.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6月5日-6月11日周记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6月5日-6月11日周记.md"
+              }
             }
           },
           {
@@ -100,6 +107,8 @@
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
+    "6月5日-6月11日周记.md",
+    "5月29日-6月4日周记.md",
     "关于管理的迷思.md",
     "个人知识体系搭建.md",
     "利器Toolbox.md",
@@ -107,8 +116,6 @@
     "5月1日-5月7日周记.md",
     "2022、来いよ！.md",
     "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
-    "5月29日-6月4日周记.md",
-    "5月周记2/index.md",
-    "5月周记2/稿定设计导出-20220514-180652.jpg"
+    "5月周记2/index.md"
   ]
 }

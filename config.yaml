@@ -188,7 +188,12 @@ menu:
               icon: home
 
     social:
-    
+        - identifier: home
+          name: Home
+          url: https://planet-arm.vercel.app/
+          params:
+              icon: home-brands
+        
         - identifier: bilibili
           name: Bilibili
           url: https://space.bilibili.com/18235453?spm_id_from=333.1007.0.0

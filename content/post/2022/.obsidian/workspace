@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
-            "mode": "preview",
+            "file": "6月12日-6月18日周记.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
+                "file": "6月12日-6月18日周记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "唱歌【纯K民间代言人的前世今生（持续施工中）.md"
+                "file": "6月12日-6月18日周记.md"
               }
             }
           },
@@ -102,20 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
-    "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
+    "6月12日-6月18日周记.md",
     "6月5日-6月11日周记.md",
+    "唱歌【纯K民间代言人的前世今生（持续施工中）.md",
     "5月29日-6月4日周记.md",
     "关于管理的迷思.md",
     "个人知识体系搭建.md",
     "利器Toolbox.md",
     "template.md",
     "5月1日-5月7日周记.md",
-    "2022、来いよ！.md",
-    "5月周记2/index.md"
+    "2022、来いよ！.md"
   ]
 }

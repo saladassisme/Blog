@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6月19日-6月25日周记.md",
+            "file": "6月26日-7月2日周记.md",
             "mode": "source",
             "source": true
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "e82d3653563b026e",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6月19日-6月25日周记.md",
+                "file": "6月26日-7月2日周记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6月19日-6月25日周记.md"
+                "file": "6月26日-7月2日周记.md"
               }
             }
           },
@@ -102,10 +103,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
+    "6月26日-7月2日周记.md",
     "6月19日-6月25日周记.md",
     "6月12日-6月18日周记.md",
     "6月5日-6月11日周记.md",
@@ -114,7 +117,6 @@
     "关于管理的迷思.md",
     "个人知识体系搭建.md",
     "利器Toolbox.md",
-    "template.md",
-    "5月1日-5月7日周记.md"
+    "template.md"
   ]
 }

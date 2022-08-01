@@ -206,12 +206,6 @@ menu:
           params:
               icon: brand-github
               
-        - identifier: douban
-          name: Douban
-          url: https://www.douban.com/people/littlehuman/?_i=3035637QaLP0YX
-          params:
-              icon: brand-douban
-              
         - identifier: wechat
           name: WeChat
           url: https://d2nvkphgrw.feishu.cn/docs/doccnDaSfuwGGFxz3gnMtnE43fe?from=from_copylink

@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 259
   },
   "right": {
     "id": "e82d3653563b026e",
@@ -103,12 +102,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 227,
     "collapsed": true
   },
   "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
     "6月26日-7月2日周记.md",
+    "7月3日-7月9日周记.md",
     "6月19日-6月25日周记.md",
     "6月12日-6月18日周记.md",
     "6月5日-6月11日周记.md",
@@ -116,7 +116,6 @@
     "5月29日-6月4日周记.md",
     "关于管理的迷思.md",
     "个人知识体系搭建.md",
-    "利器Toolbox.md",
-    "template.md"
+    "利器Toolbox.md"
   ]
 }

@@ -7,8 +7,12 @@
         "id": "67fa823a1f38c81f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "7月3日-8月14日 修修补补.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7月3日-8月14日 修修补补.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7月3日-8月14日 修修补补.md"
+              }
             }
           },
           {
@@ -98,7 +105,7 @@
     "width": 227,
     "collapsed": true
   },
-  "active": "d8d35b9d881b80d1",
+  "active": "67fa823a1f38c81f",
   "lastOpenFiles": [
     "7月3日-8月14日 修修补补.md",
     "6月26日-7月2日周记.md",

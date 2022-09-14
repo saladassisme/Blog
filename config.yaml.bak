@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://littlehuman.vercel.app/
 languageCode: zh-CN
 theme: stack
 paginate: 5
@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: favicon.ico
 
     footer:
         since: 2022
@@ -38,8 +38,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍵
-        subtitle: Towards a situationist international
+        emoji: 🌱
+        subtitle: 漠とした玉砕の意志は滾り行為へ。
         avatar:
             enabled: true
             local: true
@@ -188,24 +188,41 @@ menu:
               icon: home
 
     social:
+        - identifier: home
+          name: Home
+          url: https://planet-arm.vercel.app/
+          params:
+              icon: home-brands
+        
+        - identifier: bilibili
+          name: Bilibili
+          url: https://space.bilibili.com/18235453?spm_id_from=333.1007.0.0
+          params:
+              icon: bilibili-brands
+              
         - identifier: github
           name: GitHub
-          url: https://github.com/
+          url: https://github.com/saladassisme
           params:
               icon: brand-github
               
-        - identifier: bilibili
-          name: Bilibili
-          url: https://bilibili.com
+        - identifier: wechat
+          name: WeChat
+          url: https://d2nvkphgrw.feishu.cn/docs/doccnDaSfuwGGFxz3gnMtnE43fe?from=from_copylink
           params:
-              icon: clock
-              
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+              icon: brand-wechat
+
+        - identifier: tg
+          name: Telegram
+          url: https://t.me/zarmstrong
           params:
-              icon: brand-twitter
-              
+              icon: brand-tg
+
+        - identifier: ins
+          name: Instagram
+          url: https://www.instagram.com/invites/contact/?i=orwnlyfujvd3&utm_content=5gl1atb
+          params:
+              icon: brand-ins
 
 related:
     includeNewer: true

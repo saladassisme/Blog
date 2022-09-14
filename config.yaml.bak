@@ -190,7 +190,7 @@ menu:
     social:
         - identifier: home
           name: Home
-          url: https://planet-arm.vercel.app/
+          url: https://littlehuman.xyz
           params:
               icon: home-brands
         

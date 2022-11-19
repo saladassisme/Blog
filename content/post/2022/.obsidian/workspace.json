@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "0b3a2fb8923b7388",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae68b4d19be08cb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f2f62f7d9fa1d5b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "4月周记1/罗翔.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fbb0601c47acb1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "68922fe6c6da87d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8d35b9d881b80d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9770adc1093a142b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "音乐节",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "right": {
+    "id": "e82d3653563b026e",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ce70f63662d5fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0889cda8dd2eed26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4月周记1/罗翔.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "姨妈",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d39b775660bc1d6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4月周记1/罗翔.png"
+              }
+            }
+          },
+          {
+            "id": "2a00d507e1d1211a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227
+  },
+  "active": "6f2f62f7d9fa1d5b",
+  "lastOpenFiles": [
+    "10月8日-11月19日.md",
+    "9月26日-10月7日.md",
+    "6月26日-7月2日周记.md",
+    "7月3日-8月14日 修修补补.md",
+    "8月15日-8月28日.md",
+    "8月29日-9月11日.md",
+    "9月12日-9月25日.md",
+    "9月12日-9月18日.md",
+    "7月3日-7月9日周记.md",
+    "6月19日-6月25日周记.md"
+  ]
+}

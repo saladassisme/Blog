@@ -105,6 +105,6 @@ categories:
 3. Like PJ2, in NFTee.sol, we import ERC721contracts thorugh OZ, and write contract code. 
 4. use npx to compile our contract.
 ### Configuring Deployment
-1. useing `.env`, `deploy.js` and `hardhat.config.js`, we give info about our quicknode http provider and our private key in Goerli network.
+1. using `.env`, `deploy.js` and `hardhat.config.js`, we give info about our quicknode http provider and our private key in Goerli network.
 2. use npx to run the `deploy.js` file to deploy our NFT in Goerli.
 ### Done!

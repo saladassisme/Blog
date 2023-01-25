@@ -54,8 +54,8 @@ categories:
 
 
 ## 生活小妙招
-* 拉屎：https://www.bilibili.com/video/BV1G94y1S7U7/?spm_id_from=333.999.0.0
-* 痛经：https://www.bilibili.com/video/BV1y44y1u7qv/?spm_id_from=333.999.0.0
-* 肩酸：https://www.bilibili.com/video/BV127411A7fZ/?spm_id_from=333.999.0.0
-* 国内旅行平替：https://www.bilibili.com/video/BV1rM411U7o6/?spm_id_from=333.999.0.0
-* 催经：https://www.bilibili.com/video/BV1Wq4y1V7DX/?spm_id_from=333.999.0.0
+* 拉屎：[B站小视频](https://www.bilibili.com/video/BV1G94y1S7U7/?spm_id_from=333.999.0.0)
+* 痛经：[B站小视频](https://www.bilibili.com/video/BV1y44y1u7qv/?spm_id_from=333.999.0.0)
+* 肩酸：[B站小视频](https://www.bilibili.com/video/BV127411A7fZ/?spm_id_from=333.999.0.0)
+* 国内旅行平替：[B站小视频](https://www.bilibili.com/video/BV1rM411U7o6/?spm_id_from=333.999.0.0)
+* 催经：[B站小视频](https://www.bilibili.com/video/BV1Wq4y1V7DX/?spm_id_from=333.999.0.0)

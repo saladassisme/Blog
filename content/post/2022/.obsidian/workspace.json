@@ -11,8 +11,12 @@
             "id": "6eed15858eb553ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "12月19日-1月25日.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 205.5
   },
   "right": {
     "id": "e82d3653563b026e",
@@ -73,11 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "12月19日-1月25日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "姨妈",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "12月19日-1月25日.md"
+              }
             }
           },
           {
@@ -103,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -116,9 +123,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d8d35b9d881b80d1",
+  "active": "6eed15858eb553ef",
   "lastOpenFiles": [
     "11月20日-12月18日.md",
+    "12月19日-1月25日.md",
     "12月19日-12月18日.md",
     "5月周记2/index.md",
     "5月周记2/稿定设计导出-20220514-180652.jpg",
@@ -126,7 +134,6 @@
     "web3/pic1.png",
     "web3/index.md",
     "4月周记1/index.md",
-    "记录用LW3.io学习web3.md",
-    "记录用Busuu学习西班牙语.md"
+    "记录用LW3.io学习web3.md"
   ]
 }

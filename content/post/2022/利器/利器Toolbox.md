@@ -59,3 +59,12 @@ categories:
 * 肩酸：[B站小视频](https://www.bilibili.com/video/BV127411A7fZ/?spm_id_from=333.999.0.0)
 * 国内旅行平替：[B站小视频](https://www.bilibili.com/video/BV1rM411U7o6/?spm_id_from=333.999.0.0)
 * 催经：[B站小视频](https://www.bilibili.com/video/BV1Wq4y1V7DX/?spm_id_from=333.999.0.0)
+* 离职用语：![离职](离职.png)
+* 涨薪话术：[豆瓣](https://www.douban.com/group/topic/279930072/)
+* 广州好吃的：[豆瓣](https://www.douban.com/group/topic/272040741/?_i=46605692dZkXqH)
+* 父母养老：[豆瓣/但疑似广告](https://www.douban.com/group/topic/260110189/?_i=46606532dZkXqH)
+* 免费看medium文章：1. 在推特上搜索Medium文章标题，再点进去看。2. 把文章分享到推上再阅读.
+* 长沙好吃的：[豆瓣](https://www.douban.com/group/topic/224129906/)
+* 英文邮件礼貌tips：[豆瓣](https://www.douban.com/group/topic/228260824/?_i=46611232dZkXqH)
+* 增加多巴胺：[豆瓣](https://www.douban.com/note/705038979/?_i=46611912dZkXqH)
+* 增加内啡肽：[cleveland clinic](https://my.clevelandclinic.org/health/body/23040-endorphins)

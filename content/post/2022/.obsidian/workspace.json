@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58ddb4793895d4ad",
+            "id": "116a24984d2bee95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1月25日-2月9日.md",
+                "file": "2月10日-3月2日.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1月25日-2月9日.md",
+                "file": "2月10日-3月2日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "next",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1月25日-2月9日.md"
+                "file": "2月10日-3月2日.md"
               }
             }
           },
@@ -114,17 +114,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "58ddb4793895d4ad",
+  "active": "116a24984d2bee95",
   "lastOpenFiles": [
+    "1月25日-2月9日.md",
+    "8月15日-8月28日.md",
+    "4月24日-4月30日周记.md",
+    "4月17日-4月23日周记.md",
+    "2月10日-3月2日.md",
+    "2022复盘.md",
+    "pmp.md",
     "12月19日-1月25日.md",
     "6月19日-6月25日周记.md",
     "11月20日-12月18日.md",

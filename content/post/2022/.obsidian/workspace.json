@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dd9df7e204898bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4月2日-4月23日.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3月13日-4月1日.md",
+                "file": "4月2日-4月23日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3月13日-4月1日.md"
+                "file": "4月2日-4月23日.md"
               }
             }
           },
@@ -114,19 +127,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0f9910cca15fd555",
+  "active": "dd9df7e204898bdd",
   "lastOpenFiles": [
-    "3月3日-3月12日.md",
     "3月13日-4月1日.md",
+    "4月2日-4月23日.md",
+    "4月17日-4月23日周记.md",
+    "4月24日-4月30日周记.md",
+    "3月3日-3月12日.md",
     "如何用Hexo+Github搭建个人博客.md",
     "未命名.md",
     "未命名 1.md",
@@ -135,8 +151,6 @@
     "1月25日-2月9日.md",
     "2月10日-3月2日.md",
     "8月15日-8月28日.md",
-    "4月24日-4月30日周记.md",
-    "4月17日-4月23日周记.md",
     "2022复盘.md",
     "12月19日-1月25日.md",
     "6月19日-6月25日周记.md",

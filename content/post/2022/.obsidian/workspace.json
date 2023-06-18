@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6bd813023fe53473",
+        "id": "d9c4acf6b57c1f51",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9910cca15fd555",
+            "id": "2ee9cf85c841a70f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3月13日-4月1日.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dd9df7e204898bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4月2日-4月23日.md",
+                "file": "4月24日-6月18日.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "72b691787d3d476f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -90,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4月2日-4月23日.md",
-                "collapseAll": false,
+                "file": "4月24日-6月18日.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -107,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4月2日-4月23日.md"
+                "file": "4月24日-6月18日.md"
               }
             }
           },
@@ -119,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,33 +123,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "dd9df7e204898bdd",
+  "active": "d39b775660bc1d6e",
   "lastOpenFiles": [
-    "3月13日-4月1日.md",
+    "2023、来いよ！.md",
+    "4月24日-6月18日.md",
     "4月2日-4月23日.md",
-    "4月17日-4月23日周记.md",
-    "4月24日-4月30日周记.md",
     "3月3日-3月12日.md",
-    "如何用Hexo+Github搭建个人博客.md",
-    "未命名.md",
-    "未命名 1.md",
-    "pmp.md",
-    "Pasted image 20220420130811.png",
-    "1月25日-2月9日.md",
+    "3月13日-4月1日.md",
     "2月10日-3月2日.md",
-    "8月15日-8月28日.md",
-    "2022复盘.md",
-    "12月19日-1月25日.md",
-    "6月19日-6月25日周记.md",
+    "1月25日-2月9日.md",
+    "4月17日-4月23日周记.md",
+    "5月1日-5月7日周记.md",
+    "4月24日-4月30日周记.md",
+    "回归.md",
+    "《债务危机：我的应对原则》l 思维导图.md",
+    "原则.md",
+    "Pasted image 20230409222948.png",
+    "2023年.md",
+    "未命名.md",
     "11月20日-12月18日.md",
     "12月19日-12月18日.md",
     "5月周记2/index.md",
@@ -161,6 +157,7 @@
     "web3/freshman.png",
     "web3/pic1.png",
     "web3/index.md",
-    "4月周记1/index.md"
+    "4月周记1/index.md",
+    "记录用LW3.io学习web3.md"
   ]
 }

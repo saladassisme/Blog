@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4月24日-6月18日.md",
+                "file": "6月19日-6月25日周记.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4月24日-6月18日.md",
+                "file": "6月19日-6月25日周记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4月24日-6月18日.md"
+                "file": "6月19日-6月25日周记.md"
               }
             }
           },
@@ -113,36 +113,49 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6f6e1d8d92973855",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 207.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d39b775660bc1d6e",
+  "active": "2ee9cf85c841a70f",
   "lastOpenFiles": [
-    "2023、来いよ！.md",
+    "6月19日-11月27日.md",
+    "6月19日-6月25日周记.md",
+    "6月12日-6月18日周记.md",
     "4月24日-6月18日.md",
+    "5月1日-5月7日周记.md",
+    "2023、来いよ！.md",
     "4月2日-4月23日.md",
     "3月3日-3月12日.md",
     "3月13日-4月1日.md",
     "2月10日-3月2日.md",
     "1月25日-2月9日.md",
     "4月17日-4月23日周记.md",
-    "5月1日-5月7日周记.md",
     "4月24日-4月30日周记.md",
     "回归.md",
     "《债务危机：我的应对原则》l 思维导图.md",
